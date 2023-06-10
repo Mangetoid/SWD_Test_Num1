@@ -1,4 +1,3 @@
-# Create an empty array
 my_array = []
 
 # Loop until the user enters a non-integer value
