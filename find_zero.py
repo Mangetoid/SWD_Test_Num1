@@ -7,7 +7,7 @@ def factorial(n):
     if n == 0 or n == 1:
         return 1
 
-    # Initialize the result variable
+    
     result = 1
 
     # Multiply numbers from 2 to n
